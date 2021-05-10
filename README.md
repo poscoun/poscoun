@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poscoun&langs_count=10&layout=compact&theme=dark)](https://github.com/poscoun/poscoun)﻿
 <!--
 **poscoun/poscoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
